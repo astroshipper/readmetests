@@ -10,4 +10,4 @@
 </tr></table>
 
 
-<img src="animation1.svg">
+<img src="https://raw.githubusercontent.com/astroshipper/readmetests/main/animation1.svg">
